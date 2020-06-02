@@ -1,3 +1,4 @@
+# Retail Analytics
 This project leverages data science to help a retailer solve business problems and improve customer experience, thus increasing revenue.
 In order to achieve actionable insights, I explored customer demographics, product data and transactional data.
 
